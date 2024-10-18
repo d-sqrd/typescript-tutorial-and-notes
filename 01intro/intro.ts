@@ -120,4 +120,4 @@ let seatAllotment: "aisle" | "window" | "middle";
 seatAllotment = "aisle";
 seatAllotment = "window";
 seatAllotment = "middle";
-seatAllotment = "crew";
+seatAllotment = "crew"; // cannot do this!
